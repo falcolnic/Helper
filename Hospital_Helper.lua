@@ -135,7 +135,7 @@ local default_settings = {
 		med14 = 50000,
 		med30 = 70000,
 		med60 = 110000,
-		mticket = 300000,
+		mticket = 300040,
 	},
 	
 	waiting = {
